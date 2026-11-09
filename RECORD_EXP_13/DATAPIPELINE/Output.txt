@@ -1,0 +1,2 @@
+Original Data: -5 10 20 -3 15 30
+Processed Data: 20 40 30 60
